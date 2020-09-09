@@ -15,7 +15,14 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.6/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response1.txt" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectId" id="1hEhcqO6UCyWY4U0WJjBJwCHEAX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,6 +67,10 @@
       <screen x="0" y="23" width="1680" height="959" />
     </state>
     <state x="681" y="421" key="Github.CreateGistDialog/0.23.1680.959@0.23.1680.959" timestamp="1599611154827" />
+    <state x="727" y="399" key="Github.ShareDialog" timestamp="1599611846646">
+      <screen x="0" y="23" width="1680" height="959" />
+    </state>
+    <state x="727" y="399" key="Github.ShareDialog/0.23.1680.959@0.23.1680.959" timestamp="1599611846646" />
     <state width="1507" height="229" key="GridCell.Tab.0.bottom" timestamp="1599611221893">
       <screen x="0" y="23" width="1680" height="959" />
     </state>
